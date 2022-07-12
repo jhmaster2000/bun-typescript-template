@@ -6,7 +6,7 @@
     "parserOptions": {
         "warnOnUnsupportedTypeScriptVersion": false,
         "tsconfigRootDir": "./",
-        "project": ["./tsconfig.json", "./tests/tsconfig.json"],
+        "project": ["./tsconfig.json"],
         "sourceType": "module",
         "ecmaVersion": 2022,
         "ecmaFeatures": { "impliedStrict": true }
