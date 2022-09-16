@@ -1,6 +1,6 @@
 {
     "name": "bun-typescript-project-template",
-    "version": "1.0.0",
+    "version": "0.0.0",
     "description": "Minimalistic Bun project template with TypeScript and ESLint.",
     "keywords": [],
     "license": "MIT",
